@@ -1,8 +1,9 @@
 In this project explored JavaScript, d3.js to render dyanmic content in web. Also, added options to filter the data to be displayed
 
-https://github.com/satheeshv87/Javascript/blob/master/static/js/app.js
-
 Search section, containing a Search by drop down with Date, City, State, Country and Shape as options.
+
+## JavaScript
+https://github.com/satheeshv87/Javascript/blob/master/static/js/app.js
 
 ## Search options
 ![Search](https://user-images.githubusercontent.com/22437603/63220197-9867e180-c150-11e9-9a26-50c27e3ba3aa.PNG)
